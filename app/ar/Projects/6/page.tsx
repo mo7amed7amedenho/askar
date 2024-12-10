@@ -10,7 +10,7 @@ import Blog from "../../components/Sections/Blog";
 import { Swiper as SwiperClass } from "swiper/types";
 
 export default function Project1() {
-  const projectName = "Fire Lines";
+  const projectName = "Fire Lines (ترميم ودهان)";
   const [thumbsSwiper, setThumbsSwiper] = useState<SwiperClass | null>(null);
 
   const images = [

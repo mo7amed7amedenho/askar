@@ -17,33 +17,16 @@ export default function Project1() {
     {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550639/image4_ffiazr.jpg",
     },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550633/image2_rjpsju.jpg",
-    },
+   
     {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550627/image7_zrhr27.jpg",
     },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550623/image8_oncuyl.jpg",
-    },
+   
     {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550622/image6_x44nfs.jpg",
     },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550612/image3_ksonyi.jpg",
-    },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550611/image11_njbtg4.jpg",
-    },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550605/image1_fxnqoa.jpg",
-    },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550597/image10_mn2zmq.jpg",
-    },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550639/image9_byq9sr.jpg",
-    },
+    
+    
   ];
 
   return (

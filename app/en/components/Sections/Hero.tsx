@@ -71,7 +71,7 @@ export default function Hero() {
                         <div className="embla__slide">
                             <Image
                                 className="object-cover brightness-50 max-sm:h-screen"
-                                src="/image1.jpg"
+                                src="https://res.cloudinary.com/dvhcaimzt/image/upload/v1732973071/IMG-20241129-WA0034_vff8lk.jpg"
                                 width={1920}
                                 height={1080}
                                 alt="موقع بناء حديث يحتوي على آلات وعمال"

@@ -151,7 +151,7 @@ export default function HeroSection() {
           {/* قسم الصورة */}
           <div className="flex flex-1 lg:w-1/2 lg:h-auto relative lg:max-w-none lg:mx-0 mx-auto max-w-3xl">
             <Image
-              src="https://res.cloudinary.com/dvhcaimzt/image/upload/t_Place/v1733495933/IMG-20241206-WA0030_viceom.jpg"
+              src="https://res.cloudinary.com/dvhcaimzt/image/upload/v1733495947/IMG-20241206-WA0047_pbizmo.jpg"
               alt="مصنع عسكر - تشكيل المعادن والمعالجة الدقيقة"
               width={600}
               height={600}
