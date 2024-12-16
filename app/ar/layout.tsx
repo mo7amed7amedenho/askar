@@ -60,7 +60,7 @@ export default function RootLayout({
         />
         <meta
           name="keywords"
-          content="شركة عسكر، مقاولات عامة، خدمات إنشاءات، إنشاءات مصر، عسكر، عسكر جروب"
+          content="شركة عسكر، مقاولات عامة، خدمات إنشاءات، إنشاءات مصر، عسكر، عسكر جروب, مصنع عسكر لتشكيل المعادن"
         />
         <meta name="author" content="شركة عسكر" />
         <link rel="icon" href="/favicon.ico" />

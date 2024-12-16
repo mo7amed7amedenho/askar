@@ -37,7 +37,7 @@ export default function RootLayout({
           <title>Askar Group | General Contracting Services in Egypt</title>
           <meta
             name="description"
-            content="Discover Askar Group, a leader in general contracting and construction services in Egypt. We deliver exceptional results for all your construction needs."
+            content="Discover Askar Group, Askar Metal Forming Factory , a leader in general contracting and construction services in Egypt. We deliver exceptional results for all your construction needs."
           />
           <meta
             name="keywords"

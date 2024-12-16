@@ -62,19 +62,19 @@ export default function Footer() {
               الرئيسية
             </Link>
             <Link
-              href="/Projects"
+              href="/ar/Projects"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               المشاريع
             </Link>
             <Link
-              href="/AboutUs"
+              href="/ar/AboutUs"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               من نحن
             </Link>
             <Link
-              href="/ContactUs"
+              href="/ar/ContactUs"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               تواصل معنا

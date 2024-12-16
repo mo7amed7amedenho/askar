@@ -25,7 +25,7 @@ const NotFound = () => {
                 href="/"
                 className="w-1/2 px-5 py-2 text-sm tracking-wide text-white transition-colors duration-200 bg-indigo-500 rounded-lg shrink-0 sm:w-auto hover:bg-indigo-600 dark:hover:bg-indigo-500 dark:bg-indigo-600"
               >
-                Take me home
+                Home Page
               </Link>
             </div>
           </div>
