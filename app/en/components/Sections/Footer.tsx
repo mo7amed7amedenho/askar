@@ -1,7 +1,7 @@
-import {FaFacebook, FaLocationDot,} from "react-icons/fa6";
+import { FaFacebook, FaLocationDot } from "react-icons/fa6";
 import Image from "next/image";
 import Link from "next/link";
-import {MdMarkEmailUnread} from "react-icons/md";
+import { MdMarkEmailUnread } from "react-icons/md";
 
 export default function Footer() {
   return (
@@ -53,25 +53,25 @@ export default function Footer() {
           {/* Navigation Links */}
           <div className="flex flex-wrap justify-center mt-6 -mx-4">
             <Link
-                href="/en"
+              href="/en"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               Home
             </Link>
             <Link
-                href="/en/Projects"
+              href="/en/Projects"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               Projects
             </Link>
             <Link
-                href="/en/About"
+              href="/en/About"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               About Us
             </Link>
             <Link
-                href="/en/ContactUs"
+              href="/en/ContactUs"
               className="mx-4 text-sm text-gray-100 transition-colors duration-300 hover:text-indigo-500"
             >
               Contact Us
@@ -84,13 +84,18 @@ export default function Footer() {
         {/* Social Media and Footer Note */}
         <div className="flex flex-col items-center sm:flex-row sm:justify-between">
           <div className="flex items-center space-x-4">
-            <Link href="https://www.facebook.com/profile.php?id=61566988097016&mibextid=ZbWKwL"
-                  className="hover:text-indigo-300 duration-300">
+            <Link
+              href="https://www.facebook.com/profile.php?id=61566988097016&mibextid=ZbWKwL"
+              className="hover:text-indigo-300 duration-300"
+              target="_blank"
+            >
               <FaFacebook className="text-white" />
             </Link>
             <Link
-                href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3451.8838489773057!2d29.837416!3d30.990099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f5ed007bd747f7%3A0xb7e745a21acf81e4!2z2YXYtdmG2Lkg2LnYs9mD2LEg2YTYqti02YPZitmEINin2YTZhdi52KfYr9mG!5e0!3m2!1sar!2seg!4v1689595835366!5m2!1sar!2seg"
-                className="hover:text-indigo-300 duration-300">
+              href="https://www.google.com/maps/place/%D9%85%D8%B5%D9%86%D8%B9+%D8%B9%D8%B3%D9%83%D8%B1+%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84+%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86%E2%80%AD/data=!4m2!3m1!1s0x0:0xb7e745a21acf81e4?sa=X&ved=1t:2428&ictx=111"
+              target="_blank"
+              className="hover:text-indigo-300 duration-300"
+            >
               <FaLocationDot className="text-white" />
             </Link>
             <div className="flex items-center font-mono text-white hover:text-indigo-300 transition-all duration-300">

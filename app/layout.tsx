@@ -50,6 +50,42 @@ export default function RootLayout({
           property="og:image"
           content="https://askarconstruction.com/opengraph-image.png"
         />
+        <meta
+            name="description"
+            content="Discover Askar Group, Askar Metal Forming Factory , a leader in general contracting and construction services in Egypt. We deliver exceptional results for all your construction needs."
+          />
+          <meta
+            name="keywords"
+            content="Askar Group, General Contracting, عسكر جروب, Egypt Construction, Askar, مصنع عسكر لتشكيل المعادن"
+          />
+          <meta name="author" content="Askar Group | General Contracting" />
+          <link rel="icon" href="/favicon.ico" />
+          <link rel="canonical" href="https://askarconstruction.com/" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                name: "Askar Group",
+                url: "https://askarconstruction.com/",
+                logo: "https://askarconstruction.com/logo.png",
+                description:
+                  "Askar Group is a leading provider of general contracting and construction services in Egypt.",
+                address: {
+                  "@type": "PostalAddress",
+                  addressLocality: "Cairo",
+                  addressCountry: "Egypt",
+                },
+                contactPoint: {
+                  "@type": "ContactPoint",
+                  telephone: "+201000459052",
+                  contactType: "Customer Service",
+                },
+              }),
+            }}
+          />
       </Head>
       <body
         className={
