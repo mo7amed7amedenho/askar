@@ -24,9 +24,9 @@ export default function Project1() {
     {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550730/image7_axrb44.jpg",
     },
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550734/image9_y43vpf.jpg",
-    },
+    // {
+    //   src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550734/image9_y43vpf.jpg",
+    // },
     {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550729/image6_srpdxo.jpg",
     },
@@ -34,9 +34,9 @@ export default function Project1() {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550725/image5_dtqonx.jpg",
     },
 
-    {
-      src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550721/image4_c3qzqa.jpg",
-    },
+    // {
+    //   src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550721/image4_c3qzqa.jpg",
+    // },
     {
       src: "https://res.cloudinary.com/dvhcaimzt/image/upload/v1733550719/image14_qp15pm.jpg",
     },
